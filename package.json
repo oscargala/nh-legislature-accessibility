@@ -1,0 +1,19 @@
+{
+  "name": "nh-legislature-accessibility",
+  "version": "1.0.0",
+  "description": "Scrapes NH legislative hearing data to make remote testimony submission easier",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "0.22.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

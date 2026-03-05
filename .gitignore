@@ -1,0 +1,4 @@
+node_modules/
+nh_testimony_env/
+.env
+CLAUDE.md
